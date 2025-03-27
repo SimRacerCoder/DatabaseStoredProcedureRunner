@@ -12,11 +12,11 @@ public partial class MainForm : Form
     {
         InitializeComponent();
 
-        TextBoxServerName.Text = "IRACINGPC";
-        TextBoxDatabaseName.Text = "AdventureWorks2022";
-        CheckBoxUseWindowsAuth.Checked = true;
-        TextBoxUsername.Text = "SYSADM";
-        TextBoxPassword.Text = "sysadm";
+        //TextBoxServerName.Text = "IRACINGPC";
+        //TextBoxDatabaseName.Text = "AdventureWorks2022";
+        //CheckBoxUseWindowsAuth.Checked = true;
+        //TextBoxUsername.Text = "SYSADM";
+        //TextBoxPassword.Text = "sysadm";
 
     }
     private void ClearStoredProceduresInfo()
